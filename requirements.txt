@@ -1,0 +1,14 @@
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
+python-multipart
+pypdf
+python-dotenv
+transformers
+requests
+sentence-transformers
+llama-cpp-python
+docx2txt
+setuptools
+
