@@ -1,4 +1,4 @@
-# Mpeda-backend
+# Mpeda-Chatbot-Backend
 
 To install llama_index for mac user :
 CMAKE_ARGS="-DLLAMA_METAL=on" pip install -U llama-cpp-python --no-cache-dir
